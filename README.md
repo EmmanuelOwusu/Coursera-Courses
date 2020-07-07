@@ -7,3 +7,5 @@ This repository contains files on work done in Coursera on line learning
 * There is a file on Backpropagation.
 
   * Backward Propagation  is an algorithm for supervised learning of artificial neural networks using gradient descent.
+  
+  * Backpropagation is analogous to calculating the delta rule for a multilayer feedforward network
